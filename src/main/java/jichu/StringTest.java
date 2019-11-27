@@ -25,5 +25,6 @@ public class StringTest {
         System.out.println(string2==string1);//true
 
 
+
     }
 }
