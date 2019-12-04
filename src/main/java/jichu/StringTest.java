@@ -24,6 +24,10 @@ public class StringTest {
         String string1="string01";
         System.out.println(string2==string1);//true
 
+        String ss1="123";
+        String ss2="123";
+        System.out.println(ss1==ss2);//true
+
 
 
     }
